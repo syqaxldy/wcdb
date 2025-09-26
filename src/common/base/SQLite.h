@@ -26,7 +26,7 @@
 
 #if SQLITE_WCDB
 #include <sqlcipher/sqlite3.h>
-#include <sqlcipher/sqlite3_wcdb.h>
+// #include <sqlcipher/sqlite3_wcdb.h>
 
 #ifdef __cplusplus
 extern "C" {
